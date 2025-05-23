@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jfw4MksGYKNu32o7zgwnhILV1/ZAIDP0cnzuLgyGYuctuOCb+Z/Z5j4Q5ZSmvqLFIzfOQqhhEXNMwEyjpAdiBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zafer\\OneDrive\\Desktop\\test1\\LogAnalyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zafer\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\zafer\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\zafer\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

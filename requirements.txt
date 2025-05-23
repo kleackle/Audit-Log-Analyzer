@@ -1,0 +1,4 @@
+flask==2.0.1
+python-evtx==0.7.4
+pandas==1.3.3
+python-dateutil==2.8.2 
